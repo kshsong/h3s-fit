@@ -1,0 +1,7 @@
+{
+  "xyz": "/home/kssong/h3s-fit/rawdata/H3S.xyz",
+  "energy": "/home/kssong/h3s-fit/rawdata/H3S_CCSD-T.dat",
+  "ref_energy": -399.45864,
+  "alpha": 1.0,
+  "output": "/home/kssong/h3s-fit/data"
+}

@@ -1,0 +1,31 @@
+{
+  "data": "/home/kssong/h3s-fit/data",
+  "network": {
+    "layers": [
+      25,
+      45
+    ],
+    "activation": "tanh"
+  },
+  "fit": {
+    "lr": 0.4,
+    "epoch": 500,
+    "batch_size": -1
+  },
+  "lm": {
+    "adaptive_scaling": true,
+    "fletcher": false,
+    "solve_method": "solve",
+    "jacobian_max_num_rows": 500
+  },
+  "split": [
+    0.9,
+    0.05,
+    0.05
+  ],
+  "workdir": "model",
+  "layers": [
+    25,
+    45
+  ]
+}

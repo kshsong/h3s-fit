@@ -1,0 +1,5 @@
+{
+  "train_config": "/home/kssong/h3s-fit/config/train.json",
+  "ckpt": "/home/kssong/h3s-fit/model-2025-09-27 15:22:49.098849/ckpt/model-epoch-0053-val-mse-1.35721e-04.h5",
+  "output": "/home/kssong/h3s-fit/model-2025-09-27 15:22:49.098849"
+}
